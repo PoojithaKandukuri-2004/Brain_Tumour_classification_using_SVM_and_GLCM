@@ -19,13 +19,13 @@ Replace the image paths with your own screenshots.
 
 
 ### ✅ Upload & Prediction  
-![Prediction Page](fig 1.png)
-![Prediction Page](fig 2.png)
-![Prediction Page](fig 3.png)
-![Prediction Page](fig 4.png)
-![Prediction Page](fig 5.png)
-![Prediction Page](fig 6.png)
-![Prediction Page](fig 7.png)
+![Prediction Page](fig1.png)
+![Prediction Page](fig2.png)
+![Prediction Page](fig3.png)
+![Prediction Page](fig4.png)
+![Prediction Page](fig5.png)
+![Prediction Page](fig6.png)
+![Prediction Page](fig7.png)
 
 
 ### ✅ Video Demonstration
