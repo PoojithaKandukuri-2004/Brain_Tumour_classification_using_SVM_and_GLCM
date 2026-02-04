@@ -13,12 +13,11 @@ The system extracts texture features from the uploaded image and predicts the tu
 
 ---
 
-## 🖼️ Demonstration  
-Below are example screenshots of the application in action.  
-Replace the image paths with your own screenshots.
+🖼️ Demonstration
+Below are example screenshots of the application in action.
 
+✅ Upload & Prediction
 
-### ✅ Upload & Prediction  
 ![Prediction Page](fig1.png)
 ![Prediction Page](fig2.png)
 ![Prediction Page](fig3.png)
@@ -26,6 +25,7 @@ Replace the image paths with your own screenshots.
 ![Prediction Page](fig5.png)
 ![Prediction Page](fig6.png)
 ![Prediction Page](fig7.png)
+
 
 
 ### ✅ Video Demonstration
